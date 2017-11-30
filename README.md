@@ -6,5 +6,8 @@ Vertex Delta 3D Printer (K8800)
 You can find all the custom parts here in the following file formats:
 
 .STL
+.IGS
+.SAT
+.STP
 
 If you need something that is not listed in this repository please submit an issue here.
